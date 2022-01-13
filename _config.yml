@@ -8,17 +8,17 @@ description: |
   What democratic norms are and how they matter   
   led by: [Daniel Bischof](https://www.danbischof.com)   
   funded by: [The Carlsberg Foundation](https://www.carlsbergfondet.dk/en/Forskningsaktiviteter/Bevillingsstatistik/Bevillingsoversigt/CF21_0459_Daniel-Bischof) & [Aarhus University Research Foundation](https://auff.au.dk/en/)   
-owner: Your Name # or company name
+owner: Daniel Bischof # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+email: db@danbischof.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://demnorm.github.io" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
+  twitter: https://twitter.com/danbischof
+  github: https://github.com/demnorm
+  #linkedin-square: https://linkedin.com/in/<username>
+  #facebook-official: https://facebook.com/<username>
+  #google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
   #instagram:
