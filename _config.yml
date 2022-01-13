@@ -2,11 +2,12 @@
 #
 
 # Site settings
-title: Spectral
+title: |
+  DEMNORM - Democratic Norms 
+  WHAT THEY ARE AND HOW THEY MATTER
 description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
+  A Research Project   
+  funded by: [The Carlsberg Foundation](https://www.carlsbergfondet.dk/en/Forskningsaktiviteter/Bevillingsstatistik/Bevillingsoversigt/CF21_0459_Daniel-Bischof) & [Aarhus University Research Foundation](https://auff.au.dk/en/)   
 owner: Your Name # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: your-email@domain.com
